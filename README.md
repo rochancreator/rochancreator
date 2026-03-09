@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋 I'm Rochan
 
-<!--
-**rochancreator/rochancreator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Student
+- 💻 Learning Programming
+- 🌱 Currently learning C, Python, and basic programming concepts
+- 🚀 Interested in software development and technology
 
-Here are some ideas to get you started:
+## Skills
+- C Programming
+- Python
+- Basic Web Development
+- Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Data Structures
+- Git & GitHub
+- JavaScript
+
+## Goals
+- Improve programming skills
+- Build useful projects
+- Become a good software developer
+
+## Connect with Me
+- GitHub: https://github.com/your-username
+- Email: your-email@example.com
+
+⭐ Feel free to check out my repositories and give them a star!
